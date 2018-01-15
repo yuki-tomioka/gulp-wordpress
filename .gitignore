@@ -1,0 +1,7 @@
+node_modules/*
+*.php
+!work/**/*.php
+shared/*
+style.css
+!work/**/style.css
+package-lock.json
