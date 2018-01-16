@@ -2,6 +2,7 @@
 Local by Flywheelとgulpを使ってWordPressのテーマを作る
 
 # setup
+Local by Flywheelで作成用のサイトを作る（公開用サーバーとPHP、MySQLのバージョンを合わせる）
 Local by Flywheelのテーマフォルダ内にクローンorダウンロードする
 ターミナルで下記を実行
 ```
