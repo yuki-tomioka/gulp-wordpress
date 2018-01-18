@@ -5,3 +5,4 @@ shared/*
 style.css
 !work/**/style.css
 package-lock.json
+!package.json
